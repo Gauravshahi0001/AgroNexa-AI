@@ -1,5 +1,10 @@
 # 🌱 AgroNexa AI
 ### Multimodal Crop Diagnostics & RAG-Based Digital Agricultural Advisory System
+<p align="center">
+  <img src="AgroNexa AI_ Smarter Growing Futures.png"
+       alt="AgroNexa AI Banner"
+       width="100%">
+</p>
 
 <div align="center">
 
