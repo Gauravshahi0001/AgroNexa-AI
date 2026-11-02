@@ -3,9 +3,9 @@
        alt="AgroNexa AI Banner"
        width="100%">
 </p>
+
 # 🌱 AgroNexa AI
 ### Multimodal Crop Diagnostics & RAG-Based Digital Agricultural Advisory System
-
 
 <div align="center">
 
